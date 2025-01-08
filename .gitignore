@@ -12,4 +12,6 @@ build/
 # Docker
 *.log
 
+.env
+config.py
 
